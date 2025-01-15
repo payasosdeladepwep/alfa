@@ -1,0 +1,38 @@
+body{
+    background-color: aqua;
+}
+h1{
+    color: red;
+}
+#morado{
+    background-color: red;
+}
+h2{
+    color: rgb(255, 255, 255) ; 
+    font-family: Georgia;
+    font-size: 25px;
+}
+div{
+    width: 100%;
+}
+#parroz{
+    color: cyan;
+    font-size: 20px;
+
+}
+#navidad{
+    color: darkslategray;
+}
+#computacion{
+    font-size: 25px;
+    font-family: monospace;
+    color: magenta;
+}
+div div{
+    width: 33%;
+    float: right;
+}
+div div img{
+    width: 200px;
+    height: 200px;
+}
